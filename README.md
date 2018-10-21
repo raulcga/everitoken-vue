@@ -26,10 +26,4 @@ npm run e2e
 
 # run all tests
 npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# everitoken-vue
-EveryPay with Vue
->>>>>>> b25d7b005de7a82c55d8f4cad9c438e79a7a21ca
+  
